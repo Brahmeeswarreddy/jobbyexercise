@@ -1,0 +1,12 @@
+.job-details-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.responsive-items {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  width: 60%;
+}
